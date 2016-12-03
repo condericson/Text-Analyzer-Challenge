@@ -18,10 +18,10 @@ main {
 label {
   display: block;
 }
-
+/* 
 .hidden {
   display: none;
-}
+} */
 
 .text-report dt:after {
   content: ": ";
